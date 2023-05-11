@@ -1,3 +1,6 @@
+
+  ![Github viewers](https://komarev.com/ghpvc/?username=adotapetorg&color=blue&style=for-the-badge)
+
 # Olá 👋
 
 **Nossa história**
@@ -11,6 +14,10 @@ Nós somos uma organização sem fins lucrativos, onde desenvolvemos um sistema 
 **Data de criação**
 
 17/03/2023
+
+**Confira nosso quadro de atividades**
+
+Nós utilizavamos a metodologia ágila Kanban: [Trello](https://trello.com/b/EN1OEeiA/sistema-de-ado%C3%A7%C3%A3o-de-pet)
 
 <!--
 

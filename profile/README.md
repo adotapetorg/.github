@@ -17,7 +17,7 @@ Nós somos uma organização sem fins lucrativos, onde desenvolvemos um sistema 
 
 **Confira nosso quadro de atividades**
 
-Nós utilizavamos a metodologia ágila Kanban: [Trello](https://trello.com/b/EN1OEeiA/sistema-de-ado%C3%A7%C3%A3o-de-pet)
+Nós utilizavamos a metodologia ágil Kanban: [Trello](https://trello.com/b/EN1OEeiA/sistema-de-ado%C3%A7%C3%A3o-de-pet)
 
 <!--
 

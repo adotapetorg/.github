@@ -20,7 +20,7 @@ Nós somos uma organização sem fins lucrativos, onde desenvolvemos um sistema 
 
 Um amor sem fronteiras
 
-## #️⃣ **Hashtags**
+## ♯ **Hashtags**
 
 #sistema #adota #pet #adocao #gato #org #pets #cachorro #adote #dog #cute #cat #foco #gatos #love #instadog #dogs #resiliencia #adoteumgato #petstagram #cats #dicas #saude #adotapet #adotapetorg
 
